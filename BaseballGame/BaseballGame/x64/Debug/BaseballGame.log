@@ -1,0 +1,7 @@
+﻿  BaseballGame.cpp
+c:\users\tim_m\source\repos\baseballgame\baseballgame\player.h(107): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tim_m\source\repos\baseballgame\baseballgame\player.h(122): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tim_m\source\repos\baseballgame\baseballgame\player.h(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tim_m\source\repos\baseballgame\baseballgame\game.h(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tim_m\source\repos\baseballgame\baseballgame\game.h(186): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BaseballGame.vcxproj -> C:\Users\tim_m\source\repos\BaseballGame\x64\Debug\BaseballGame.exe
